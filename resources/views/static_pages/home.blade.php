@@ -1,5 +1,5 @@
 @extends('layouts.default')
-@section('title','home')
+@section('title','阿龙的博客')
 @section('content')
-    <h1>主页</h1>
+    <h1>小莫，吾儿</h1>
 @stop
